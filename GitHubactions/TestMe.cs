@@ -23,7 +23,7 @@ namespace GitHubactions
 
         public string ToString()
         {
-            return "My name is " + strName + " and i wrote this" + strDescription; 
+            return "My name is " + strName + " and i wrote this " + strDescription; 
         }
     }
 }
